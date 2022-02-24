@@ -1,0 +1,1 @@
+# como-funciona-e-quando-usar-elasticsearch
